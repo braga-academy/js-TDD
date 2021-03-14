@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Lib created on the JS with TDD Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braga-academy/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Luciano Braga <lucianobragaweb@gmail.com> (https://lucianobragaweb.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braga-academy/js-tdd/issues"
+  },
+  "homepage": "https://github.com/braga-academy/js-tdd#readme"
+}
